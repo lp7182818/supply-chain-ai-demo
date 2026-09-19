@@ -5,7 +5,7 @@
 """
 
 # 在这里填入你的 DeepSeek API Key（自己填，不要写死进仓库、不要打印、不要上传）
-API_KEY = "sk-"
+API_KEY = ""
 
 # DeepSeek 接口地址（兼容 OpenAI SDK）
 BASE_URL = "https://api.deepseek.com"
